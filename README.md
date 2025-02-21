@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Garg</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m worked on a project named **Charge Hive**
 
