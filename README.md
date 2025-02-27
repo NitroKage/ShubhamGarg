@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Garg</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m worked on a project named **Charge Hive**
+- 🔭 I worked on a project named **Charge Hive**
 
 - 🌱 I’m currently learning **SpringBoot, JavaScript**
 
